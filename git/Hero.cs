@@ -8,6 +8,7 @@ namespace git
 {
     internal class Hero
     {
+        private string Name;
         private int HitPoint;
     }
 }
